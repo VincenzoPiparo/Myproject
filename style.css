@@ -1,0 +1,69 @@
+
+body{
+ background-image:url("img/background.jpg");
+  background-size: cover;
+  text-align: center;
+  color: white;
+}
+
+.image{
+  width: 500px;
+  height: 230px;
+
+
+}
+
+.opacity{
+  opacity: 1;
+}
+
+.central{
+  background-color: black;
+  border-radius: 15px;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 7%;
+  margin-bottom: 7%;
+  padding: 50px;
+  text-align: center;
+  opacity: 0.8;
+}
+.text-green{
+  color: limegreen;
+  font-size: 35px;
+}
+.central_green{
+  background-color: limegreen;
+  padding: 15px;
+}
+
+.button{
+  text-align: center;
+}
+.Monopattini{
+  text-align: left;
+}
+
+.title{
+  color: white;
+  text-align: left;
+}
+
+.prog_bar{
+  width: 20%;
+  height: 20px;
+  background-color: orange;
+  border-radius: 5px;
+}
+
+#green{
+  width: 50%;
+  height: 20px;
+  background-color: limegreen;
+}
+
+#red{
+  width: 10%;
+  height: 20px;
+  background-color: red;
+}
